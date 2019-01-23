@@ -1,0 +1,14 @@
+fROM: savina_chan@openfind.com.tw
+tO: savina 詹	user1@domain.com
+To:勝文 chan	user2@domain.com
+TO:balbla@domain.com
+CC:cc1	cc@qaz
+cc:cc2	cc2@
+bCC: this is BCC@
+sUbject:This is a testing mail 這是一封測試信
+dATE:1234567890
+
+123測試
+
+456測試
+
