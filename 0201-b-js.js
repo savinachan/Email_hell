@@ -22,7 +22,7 @@ addShareTask:function(params){
             }
         );
          
-        if (tasks == undefined || 0 == tasks.length) {
+        if (tasks === undefined || 0 == tasks.length) {
             hasShare = false;
         }
  
